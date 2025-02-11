@@ -382,6 +382,9 @@ footer .redes a
 {
 	padding: 60px;
 	background-color: red;
+	margin-top: 20px;
+	margin-right: 50px;
+	margin-bottom: 60px;
 }
 
 #contactenos form .form-block
@@ -413,6 +416,7 @@ footer .redes a
 #contactenos form .form-block.bloque-ultimo
 {
 	margin-bottom: 0;
+	
 }
 
 
@@ -482,6 +486,7 @@ footer .redes a
 	{
 		margin-left: 40px;
 		margin-right: 40px;
+		width: 80%;
 	}
 
 	footer .redes
@@ -597,6 +602,10 @@ footer .redes a
 		height: 550px;
 	}
 
+	#servicios .bloque-servicio .bloque-contenido-servicio {
+		padding-top: 100px;
+	}
+
 	#galeria img 
 	{
 		margin-left: 10px;
@@ -615,6 +624,11 @@ footer .redes a
 		margin-right: 30px;
 	}
 
+	#contactenos form
+	{
+		margin-right: 0;
+	}
+
 	#contactenos iframe
 	{
 		position: relative;
@@ -626,6 +640,10 @@ footer .redes a
 		width: 30%;
 		color: white;
 	};
+
+	
+}
+
 
 	
 }
