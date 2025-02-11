@@ -633,6 +633,7 @@ footer .redes a
 	{
 		position: relative;
 		height: 50vh;
+		top: 40px;
 	}
 
 	.redes li
